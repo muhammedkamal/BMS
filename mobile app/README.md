@@ -20,20 +20,20 @@ BMS-MobileApp is a part of our Solution [[](https://github.com/yousefabdelbadea/
 
 ## To run the app
 ### on android 
-Just go to [android apk](build/app/outputs/flutter-apk/app-release.apk)
-Downlaod the apk 
-install it on your device 
-allow loaction access while using the app 
+    -Just go to [android apk](build/app/outputs/flutter-apk/app-release.apk)
+    -Downlaod the apk 
+    -install it on your device 
+    -allow loaction access while using the app 
 
 ### on iOS
-You have to install xCode
-go to xcode and open [iOS](ios/Runner.xcodeproj/project.pbxproj)
-connect your real device 
-run the project
-allow acess
+    -You have to install xCode
+    -go to xcode and open [iOS](ios/Runner.xcodeproj/project.pbxproj)
+    -connect your real device 
+    -run the project
+    -allow acess
 
 ## Demos
-[[](https://github.com/muhammedkamal/BMS/blob/master/mobile%20app/demos/VID-20210724-WA0021.gif)]
+[!demo](https://github.com/muhammedkamal/BMS/blob/master/mobile%20app/demos/VID-20210724-WA0021.gif)
 
 
 
