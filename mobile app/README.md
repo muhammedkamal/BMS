@@ -1,7 +1,7 @@
 # BMS-Mobile
 ## IOEV Solution 
 #### By
-[![Muhammad Kamal]](https://resume.mukamal.ninja/)
+[[Muhammad Kamal]](https://resume.mukamal.ninja/)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
@@ -33,7 +33,7 @@ run the project
 allow acess
 
 ## Demos
-[](demos/VID-20210724-WA0021.gif)
+[](https://github.com/muhammedkamal/BMS/blob/master/mobile%20app/demos/VID-20210724-WA0021.gif)
 
 
 
