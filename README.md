@@ -8,6 +8,6 @@ this repository is for Battery mangemet system graduatin project that consists o
 	5- battery backup module 	: if there's a fault in one of our 6 original batteries it's removed electriacally and replaced with a spare battery and maintainance crew are notified to fix it
 	6- communication module		: receives data from MCU using UART and sends it to the mobile app by using bluetooh low energy (BLE) technology
 ## Mobile APP
-check [mobile App folder](mobile\app/) to more information
-the web server : TBD
+check [mobile App folder](https://github.com/muhammedkamal/BMS/tree/master/mobile%20app) to more information
+## the web server : TBD
 
